@@ -8,5 +8,5 @@
  Depois de instalado, gere o comando no terminal do VSCode
  php -S localhost:1234
  
- Desenvolvido por {seu nome}.
+ Desenvolvido por {Gustavo Kanahiro}.
  
